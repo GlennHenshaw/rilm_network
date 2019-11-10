@@ -22,10 +22,10 @@ var color = d3.scaleOrdinal(d3.schemeCategory10);
 var tooltip = d3.select("div.tooltip");
 
 var linkScale = d3.scaleLog()
-               .range([0,20])
+               .range([0,15])
                .domain([1,21000]);
 var rScale = d3.scaleSqrt()
-               .range([1,40])
+               .range([1,20])
                .domain([0,50000]);
 
 d3.json("./data/graph2.json").then(function(graph) {
@@ -36,7 +36,8 @@ var label = {
 };
 
 graph.nodes.forEach(function(d, i) {
-	d.gdp = +d.gdp
+	d.continent = +d.continent;
+	d.gdp = +d.gdp;
     label.nodes.push({node: d});
     label.nodes.push({node: d});
     label.links.push({
@@ -50,11 +51,11 @@ var labelLayout = d3.forceSimulation(label.nodes)
     .force("link", d3.forceLink(label.links).distance(0).strength(2));
 
 var graphLayout = d3.forceSimulation(graph.nodes)
-    .force("charge", d3.forceManyBody().strength(-2500))
+    .force("charge", d3.forceManyBody().strength(-1000))
     .force("center", d3.forceCenter(width / 2, height / 2))
     .force("x", d3.forceX(width / 2).strength(1))
     .force("y", d3.forceY(height / 2).strength(1))
-    .force("link", d3.forceLink(graph.links).id(function(d) {return d.id; }).distance(50).strength(1))
+    .force("link", d3.forceLink(graph.links).id(function(d) {return d.id; }).distance(50).strength(.25))
     .on("tick", ticked);
 
 var adjlist = [];
@@ -92,7 +93,10 @@ var node = container.append("g").attr("class", "nodes")
     .enter()
     .append("circle")
     .attr("r", (d) => rScale(d.gdp))
-    .attr("fill", function(d) { return colors[d.group-1]; })
+    .attr("opacity",.7)
+    .attr("stroke","black")
+    .attr("stroke-width",1)
+    .attr("fill", function(d) { return colors[d.continent]; })
     .on("mouseover",function(d,i){
                 d3.select(this).attr("stroke-width",3);
                 return tooltip.style("hidden", false).html(d.id + "<br>" + "GDP: "+ (d.gdp) );
@@ -105,7 +109,7 @@ var node = container.append("g").attr("class", "nodes")
                        .html(d.id + "<br>" + "GDP: "+ (d.gdp-1));
             })
       .on("mouseout",function(d,i){
-                d3.select(this).attr("stroke","black").attr("stroke-width",0);
+                d3.select(this).attr("stroke","black").attr("stroke-width",1);
                 tooltip.classed("hidden", true);
             });
 
