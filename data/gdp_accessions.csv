@@ -1,0 +1,309 @@
+,name,count,code,per capita GDP,pop
+0,Afghanistan,,AFG,800,29928987
+1,Albania,41.0,ALB,4900,3563112
+2,Algeria,16.0,DZA,6600,32531853
+3,American Samoa,,ASM,8000,57881
+4,Andorra,,AND,26800,70549
+5,Angola,,AGO,2100,11190786
+6,Anguilla,,AIA,7500,13254
+7,Antarctica,,ATA,,
+8,Antigua and Barbuda,,ATG,11000,68722
+9,Argentina,1943.0,ARG,12400,39537943
+10,Armenia,193.0,ARM,4600,2982904
+11,Aruba,,ABW,28000,71566
+12,Australia,6245.0,AUS,30700,20090437
+13,Austria,21916.0,AUT,31300,8184691
+14,Azerbaijan,397.0,AZE,3800,7911974
+15,Bahamas,1.0,BHS,,
+16,Bahrain,1.0,BHR,19200,688345
+17,Bangladesh,12.0,BGD,2000,144319628
+18,Barbados,2.0,BRB,16400,279254
+19,Belarus,276.0,BLR,6800,10300483
+20,Belgium,9829.0,BEL,30600,10364388
+21,Belize,1.0,BLZ,6500,279457
+22,Benin,1.0,BEN,1200,7460025
+23,Bermuda,,BMU,36000,65365
+24,Bhutan,,BTN,1400,2232291
+25,Bolivia,25.0,BOL,2600,8857870
+26,Bosnia & Herzegovina,2713.0,BIH,,
+27,Bosnia and Herzegovina,2713.0,BIH,6500,4025476
+28,Botswana,4.0,BWA,9200,1640115
+29,Bouvet Island,,BVT,,
+30,Brazil,7809.0,BRA,8100,186112794
+31,British Indian Ocean Territory,,IOT,,
+32,British Virgin Islands,,VGB,38500,22643
+33,Brunei Darussalam,,BRN,,
+34,Bulgaria,1213.0,BGR,8200,7450349
+35,Burkina Faso,1.0,BFA,1200,13925313
+36,Burma,,MMR,1700,42909464
+37,Burundi,,BDI,600,6370609
+38,Cambodia,,KHM,2000,13607069
+39,Cameroon,,CMR,1900,16380005
+40,Canada,12307.0,CAN,31500,32805041
+41,Cape Verde,1.0,CPV,1400,418224
+42,Cayman Islands,,CYM,32300,44270
+43,Central African Republic,,CAF,1100,3799897
+44,Chad,,TCD,1600,9826419
+45,Chile,1998.0,CHL,10700,15980912
+46,China,30069.0,CHN,5600,1306313812
+47,Christmas Island,,CXR,,361
+48,Cocos (Keeling) Islands,,CCK,,628
+49,Colombia,479.0,COL,6600,42954279
+50,Comoros,,COM,700,671247
+51,Congo,1.0,COG,,
+52,"Congo, The Democratic Republic of the",3.0,COD,,
+53,Cook Islands,2.0,COK,5000,21388
+54,Costa Rica,78.0,CRI,9600,4016173
+55,Cote d'Ivoire,,CIV,1500,17298040
+56,Cote d’Ivoire,1.0,CIV,,
+57,Croatia,11765.0,HRV,11200,4495904
+58,Cuba,738.0,CUB,3000,11346670
+59,Cyprus,11.0,CYP,7135,780133
+60,Czech Republic,13319.0,CZE,16800,10241138
+61,Democratic Republic of the Congo,3.0,COD,,
+62,Denmark,6202.0,DNK,32200,5432335
+63,Djibouti,,DJI,1300,476703
+64,Dominica,,DMA,5500,69029
+65,Dominican Republic,75.0,DOM,6300,8950034
+66,Ecuador,26.0,ECU,3700,13363593
+67,Egypt,81.0,EGY,4200,77505756
+68,El Salvador,6.0,SLV,4900,6704932
+69,Equatorial Guinea,1.0,GNQ,2700,535881
+70,Eritrea,,ERI,900,4561599
+71,Estonia,2161.0,EST,14300,1332893
+72,Ethiopia,1.0,ETH,800,73053286
+73,Falkland Islands (Malvinas),1.0,FLK,,
+74,Faroe Islands,19.0,FRO,22000,46962
+75,Fiji,4.0,FJI,5900,893354
+76,Finland,4324.0,FIN,29000,5223442
+77,France,47814.0,FRA,28700,60656178
+78,French Guiana,3.0,GUF,8300,195506
+79,French Polynesia,1.0,PYF,17500,270485
+80,French Southern and Antarctic Lands,,ATF,,
+81,Gabon,9.0,GAB,5900,1389201
+82,Gambia,,GMB,,
+83,Georgia,200.0,GEO,3100,4677401
+84,Germany,175530.0,DEU,28700,82431390
+85,Ghana,55.0,GHA,2300,21029853
+86,Gibraltar,,GIB,27900,27884
+87,Greece,3248.0,GRC,21300,10668354
+88,Greenland,4.0,GRL,20000,56375
+89,Grenada,1.0,GRD,5000,89502
+90,Guadeloupe,4.0,GLP,7900,448713
+91,Guam,,GUM,21000,168564
+92,Guatemala,194.0,GTM,4200,14655189
+93,Guernsey,,GGY,40000,65228
+94,Guinea,,GIN,2100,9467866
+95,Guinea-Bissau,,GNB,700,1416027
+96,Guyana,1.0,GUY,3800,765283
+97,Haiti,9.0,HTI,1500,8121622
+98,Heard Island and McDonald Islands,,HMD,,
+99,Holy See (Vatican City),86.0,VAT,,921
+100,Honduras,6.0,HND,2800,6975204
+101,Hong Kong,562.0,HKG,34200,6898686
+102,Hungary,11834.0,HUN,14900,10006835
+103,Iceland,255.0,ISL,31900,296737
+104,India,10640.0,IND,3100,1080264388
+105,Indonesia,52.0,IDN,3500,241973879
+106,Iran,211.0,IRN,7700,68017860
+107,Iraq,6.0,IRQ,3500,26074906
+108,Ireland,2024.0,IRL,31900,4015676
+109,Isle of Man,,IMN,,
+110,Israel,1761.0,ISR,20800,6276883
+111,Italy,41730.0,ITA,27700,58103033
+112,Jamaica,124.0,JAM,4100,2731832
+113,Japan,12277.0,JPN,29400,127417244
+114,Jersey,,JEY,40000,90812
+115,Jordan,4.0,JOR,4500,5759732
+116,Kazakhstan,233.0,KAZ,7800,15185844
+117,Kenya,82.0,KEN,1100,33829590
+118,Kiribati,,KIR,800,103092
+119,Korea,25.0,PRK,,
+120,"Korea, Democratic People's Republic of",25.0,PRK,,
+121,"Korea, Republic of",4618.0,KOR,,
+122,Kosovo,6.0,,,
+123,Kuwait,3.0,KWT,21300,2335648
+124,Kyrgyzstan,13.0,KGZ,1700,5146281
+125,Lao,20.0,,,
+126,Lao People's Democratic Republic,20.0,LAO,,
+127,Latvia,604.0,LVA,11500,2290237
+128,Lebanon,210.0,LBN,5000,3826018
+129,Lesotho,1.0,LSO,3200,1867035
+130,Liberia,4.0,LBR,900,3482211
+131,Libyan Arab Jamahiriya,4.0,LBY,,
+132,Liechtenstein,84.0,LIE,25000,33717
+133,Lithuania,2123.0,LTU,12500,3596617
+134,Luxembourg,14.0,LUX,58900,468571
+135,Macau,3.0,MAC,19400,449198
+136,Macedonia,1379.0,,7100,2045262
+137,Madagascar,2.0,MDG,800,18040341
+138,Malawi,4.0,MWI,600,12158924
+139,Malaysia,299.0,MYS,9700,23953136
+140,Maldives,,MDV,3900,349106
+141,Mali,,MLI,900,12291529
+142,Malta,99.0,MLT,18200,398534
+143,Marshall Islands,1.0,MHL,1600,59071
+144,Martinique,2.0,MTQ,14400,432900
+145,Mauritania,,MRT,1800,3086859
+146,Mauritius,,MUS,12800,1230602
+147,Mayotte,,MYT,2600,193633
+148,Mexico,2317.0,MEX,9600,106202903
+149,Micronesia,,FSM,,
+150,Moldova,40.0,,1900,4455421
+151,Monaco,63.0,MCO,27000,32409
+152,Mongolia,1.0,MNG,1900,2791272
+153,Montenegro,280.0,MNE,,
+154,Montserrat,1.0,MSR,3400,9341
+155,Morocco,6.0,MAR,4200,32725847
+156,Mozambique,1.0,MOZ,1200,19406703
+157,Namibia,7.0,NAM,7300,2030692
+158,Nauru,,NRU,5000,13048
+159,Nepal,12.0,NPL,1500,27676547
+160,Netherlands,11913.0,NLD,29500,16407491
+161,Netherlands Antilles,,ANT,11400,219958
+162,New Caledonia,6.0,NCL,15000,216494
+163,New Zealand,3080.0,NZL,23200,4035461
+164,Nicaragua,6.0,NIC,2300,5465100
+165,Niger,3.0,NER,900,11665937
+166,Nigeria,96.0,NGA,1000,128771988
+167,Niue,,NIU,3600,2166
+168,Norfolk Island,,NFK,,1828
+169,Northern Mariana Islands,,MNP,12500,80362
+170,Norway,3104.0,NOR,40000,4593041
+171,Oman,1.0,OMN,13100,3001583
+172,Pakistan,11.0,PAK,2200,162419946
+173,Palau,,PLW,9000,20303
+174,Palestine,,PSE,,
+175,"Palestinian Territory, Occupied",1.0,,,
+176,Panama,22.0,PAN,6900,3039150
+177,Papua New Guinea,143.0,PNG,2200,5545268
+178,Paraguay,6.0,PRY,4800,6347884
+179,Peru,90.0,PER,5600,27925628
+180,Philippines,87.0,PHL,5000,87857473
+181,Pitcairn Islands,,PCN,,46
+182,Poland,16199.0,POL,12000,38635144
+183,Portugal,1167.0,PRT,17900,10566212
+184,Puerto Rico,141.0,PRI,17700,3916632
+185,Qatar,8.0,QAT,23200,863051
+186,Republic of Korea,4622.0,KOR,,
+187,Republic of Moldova,,MDA,,
+188,Reunion,,REU,6000,776948
+189,Reunion Island,3.0,,,
+190,Romania,3491.0,ROU,7700,22329977
+191,Russia,44316.0,RUS,9800,143420309
+192,Rwanda,,RWA,1300,8440820
+193,Saint Barthelemy,,BLM,,
+194,Saint Helena,,SHN,2500,7460
+195,Saint Kitts and Nevis,,KNA,8800,38958
+196,Saint Lucia,,LCA,5400,166312
+197,Saint Martin,,MAF,,
+198,Saint Pierre and Miquelon,,SPM,7000,7012
+199,Saint Vincent and the Grenadines,,VCT,2900,117534
+200,Samoa,,WSM,5600,177287
+201,San Marino,,SMR,34600,28880
+202,Sao Tome and Principe,1.0,STP,1200,187410
+203,Saudi Arabia,10.0,SAU,12000,26417599
+204,Senegal,2.0,SEN,1700,11126832
+205,Serbia,6150.0,SRB,,
+206,Seychelles,1.0,SYC,7800,81188
+207,Sierra Leone,5.0,SLE,600,6017643
+208,Singapore,82.0,SGP,27800,4425720
+209,Sint Maarten,1.0,,,
+210,Slovak Republic,5253.0,,,
+211,Slovakia,5253.0,SVK,14500,5431363
+212,Slovenia,6453.0,SVN,19600,2011070
+213,Solomon Islands,,SLB,1700,538032
+214,Somalia,,SOM,600,8591629
+215,South Africa,4357.0,ZAF,11100,44344136
+216,South Georgia South Sandwich Islands,,SGS,,
+217,South Sudan,,SSD,,
+218,Spain,30798.0,ESP,23300,40341462
+219,Sri Lanka,13.0,LKA,4000,20064776
+220,Sudan,1.0,SDN,1900,40187486
+221,Suriname,4.0,SUR,4300,438144
+222,Svalbard,,SJM,,2701
+223,Swaziland,1.0,SWZ,5100,1173900
+224,Sweden,5471.0,SWE,28400,9001774
+225,Switzerland,24846.0,CHE,33800,7489370
+226,Syria,2.0,SYR,3400,18448752
+227,Syrian Arab Republic,,SYR,,
+228,Taiwan,676.0,TWN,25300,22894384
+229,Tajikistan,65.0,TJK,1100,7163506
+230,Tanzania,78.0,TZA,700,36766356
+231,Thailand,121.0,THA,8100,65444371
+232,The former Yugoslav Republic of Macedonia,1379.0,MKD,,
+233,Timor-Leste,,TLS,,
+234,Togo,1.0,TGO,1600,5681519
+235,Tokelau,,TKL,1000,1405
+236,Tonga,,TON,2300,112422
+237,Tongo,1.0,,,
+238,Trinidad and Tobago,8.0,TTO,10500,1088644
+239,Tunisia,22.0,TUN,7100,10074951
+240,Turkey,876.0,TUR,7400,69660559
+241,Turkmenistan,18.0,TKM,5700,4952081
+242,Turks and Caicos Islands,3.0,TCA,11500,20556
+243,Tuvalu,,TUV,1100,11636
+244,US Minor Outlying Islands,2.0,,,
+245,Uganda,47.0,UGA,1500,27269482
+246,Ukraine,1119.0,UKR,6300,47425336
+247,United Arab Emirates,2.0,ARE,25200,2563212
+248,United Kingdom,110231.0,GBR,29600,60441457
+249,United Republic of Tanzania,78.0,TZA,,
+250,United States,303951.0,USA,40100,295734134
+251,United States Minor Outlying Islands,,UMI,,
+252,United States Virgin Islands,,VIR,,
+253,Uruguay,910.0,URY,14500,3415920
+254,Uzbekistan,145.0,UZB,1800,26851195
+255,Vanuatu,,VUT,2900,205754
+256,Vatican,86.0,VAT,,
+257,Venezuela,488.0,VEN,5800,25375281
+258,Viet Nam,195.0,VNM,,
+259,Vietnam,195.0,VNM,2700,83535576
+260,"Virgin Islands, US",1.0,,,
+261,Wallis and Futuna Islands,,WLF,,
+262,Western Sahara,,ESH,,273008
+263,Yemen,,YEM,800,20727063
+264,Zaire,6.0,ZAR,,
+265,Zambia,5.0,ZMB,900,11261795
+266,Zimbabwe,12.0,ZWE,1900,12746990
+267,Åland Islands,,ALA,,
+268,Akrotiri,,,,
+269,Ashmore and Cartier Islands,,,,
+270,Bahamas The,,,17700,301790
+271,Baker Island,,,,
+272,Bassas da India,,,,
+273,Brunei,,,23600,372361
+274,Clipperton Island,,,,
+275,Congo Democratic Republic of the,,,700,60085804
+276,Congo Republic of the,,,800,3039126
+277,Dhekelia,,,,
+278,East Timor,,,400,1040880
+279,Europa Island,,,,
+280,#European Union,,,26900,457030418
+281,Falkland Islands (Islas Malvinas),,,25000,2967
+282,Gambia The,,,1800,1593256
+283,Gaza Strip,,,600,1376289
+284,Glorioso Islands,,,,
+285,Howland Island,,,,
+286,Jan Mayen,,,,
+287,Jarvis Island,,,,
+288,Johnston Atoll,,,,361
+289,Juan de Nova Island,,,,
+290,Kingman Reef,,,,
+291,Korea North,,,1400,22912177
+292,Korea South,,,19200,48422644
+293,Laos,,,1900,6217141
+294,Libya,,,6700,5765563
+295,Man Isle of,,,28500,75049
+296,Micronesia Federated States of,,,2000,108105
+297,Midway Islands,,,,
+298,Navassa Island,,,,
+299,Palmyra Atoll,,,,
+300,Serbia and Montenegro,,,2400,10829175
+301,South Georgia and the South Sandwich Islands,,,,
+302,Spratly Islands,,,,
+303,Tromelin Island,,,,
+304,Virgin Islands,,,17200,108708
+305,Wake Island,,,,
+306,Wallis and Futuna,,,3800,16025
+307,West Bank,,,800,2385615
