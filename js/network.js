@@ -10,7 +10,7 @@ var height = Math.min(max_height,window.innerHeight)- margin.top - margin.bottom
 
 
 var g = d3.select("#chart-area").append("svg")
-    .attr("width", width + margin.left + margin.right)
+     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
