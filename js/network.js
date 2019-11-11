@@ -141,6 +141,7 @@ function ticked() {
     node.call(updateNode);
     link.call(updateLink);
 
+/*
     labelLayout.alphaTarget(0.3).restart();
     labelNode.each(function(d, i) {
         if(i % 2 == 0) {
@@ -160,7 +161,7 @@ function ticked() {
             this.setAttribute("transform", "translate(" + shiftX + "," + shiftY + ")");
         }
     });
-    labelNode.call(updateNode);
+    labelNode.call(updateNode); */
 
 }
 
